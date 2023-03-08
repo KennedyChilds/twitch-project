@@ -1,0 +1,98 @@
+@import url("https://fonts.cdnfonts.com/css/tech-headlines");
+@import url("https://fonts.cdnfonts.com/css/zen-kaku-gothic-antique");
+
+body {
+  font-family: "Tech Headlines", sans-serif;
+  margin: 0;
+}
+
+img {
+  width: 150px;
+  height: auto;
+}
+
+.pic1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.intro {
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.DEO {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(236, 236, 72);
+  flex-direction: row;
+  height: 250px;
+}
+
+.YRG {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(201, 51, 51);
+  flex-direction: row;
+  height: 250px;
+}
+
+.KC3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: lightskyblue;
+  flex-direction: row;
+  height: 250px;
+}
+
+.pic2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pic3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pic4 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+#pic1 {
+  width: 1020px;
+  height: auto;
+}
+.DYKlogo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.signature {
+  position: absolute;
+  bottom: -128vh;
+}
+
+h4 {
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+}
