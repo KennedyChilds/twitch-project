@@ -89,8 +89,8 @@ img {
 }
 
 .signature {
-  position: absolute;
-  bottom: -128vh;
+  position: relative;
+  bottom: 40px;
 }
 
 h4 {
